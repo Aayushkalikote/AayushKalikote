@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Kalikote</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
-- 🔭 I’m currently working on [WebMart(Ecommerce)](https://github.com/Aayushkalikote/Ecommerce-WEB-MART)
 
 - 💬 Ask me about **laravel, php, vue, react, django**
 
