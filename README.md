@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Kalikote</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4299fd42f012aa6593b95449de236d2dbec9f712935f7047835dfdfabe6acce/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756a6a77616c6275646861266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/a4299fd42f012aa6593b95449de236d2dbec9f712935f7047835dfdfabe6acce/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756a6a77616c6275646861266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Aayushkalikote" data-canonical-src="https://komarev.com/ghpvc/?username=Aayushkalikote&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
+```markdown
+![](https://komarev.com/ghpvc/?username=Aayushkalikote&color=green)
+```
 - 🔭 I’m currently working on [WebMart(Ecommerce)](https://github.com/Aayushkalikote/Ecommerce-WEB-MART)
 
 - 💬 Ask me about **laravel, php, vue, react, django**
