@@ -11,3 +11,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkalikote&show_icons=true&locale=en&layout=compact" alt="aayushkalikote" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkalikote&" alt="aayushkalikote" /></p>
+![snake gif](https://github.com/Aayushkalikote/Aayushkalikote/blob/output/github-snake-dark.svg)
